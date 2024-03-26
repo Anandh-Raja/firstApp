@@ -40,23 +40,26 @@
 .read-the-docs {
   color: #888;
 }
+/* Updated CSS */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #121212; /* Dark background */
-  color: #fff; /* White text */
+  background-color: #0c1d2e; /* Dark blue color */
+  color: #fff;
 }
 
 header,
 footer {
-  background-color: #212121; /* Darker background */
-  color: #fff;
-  padding: 20px 0; /* Increased padding */
+  background-color: #0056b3; /* Dark blue color */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
 }
 
 nav {
-  background-color: #333; /* Dark color */
+  background-color: #1a1a1a; /* Dark color */
   padding: 10px;
 }
 
@@ -72,16 +75,16 @@ nav ul li {
 }
 
 nav ul li button {
-  color: #fff; /* White button text */
-  background-color: #212121; /* Darker background for buttons */
+  color: white;
+  background-color: #0056b3; /* Dark blue color */
   border: none;
   padding: 10px 20px;
+  border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s ease; /* Smooth transition */
 }
 
 nav ul li button:hover {
-  background-color: #424242; /* Darker background on hover */
+  background-color: #003366; /* Darker blue color */
 }
 
 section {
@@ -92,11 +95,11 @@ section {
 #home,
 #about,
 #contact {
-  background-color: #212121; /* Darker background */
+  background-color: #0056b3; /* Dark blue color */
 }
 
 #projects {
-  background-color: #333; /* Dark color */
+  background-color: #1a1a1a; /* Dark color */
 }
 
 h2 {
@@ -117,8 +120,8 @@ ul li {
 }
 
 footer {
-  background-color: #212121; /* Darker background */
+  background-color: #0056b3; /* Dark blue color */
   color: white;
-  padding: 20px 0; /* Increased padding */
+  padding: 10px 20px;
   text-align: center;
 }
