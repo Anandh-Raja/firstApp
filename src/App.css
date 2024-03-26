@@ -40,3 +40,78 @@
 .read-the-docs {
   color: #888;
 }
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #181a1b;
+  color: #fff;
+}
+
+header,
+footer {
+  background-color: #1e90ff; /* Blue color */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #333; /* Dark color */
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+/* Additional styles for specific sections */
+#home,
+#about,
+#contact {
+  background-color: #1e90ff; /* Blue color */
+}
+
+#projects {
+  background-color: #333; /* Dark color */
+}
+
+h2 {
+  color: #fff; /* White color */
+}
+
+p {
+  color: #ccc; /* Light grey color */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #1e90ff; /* Blue color */
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
