@@ -100,7 +100,7 @@ function App() {
       </section>
 
       <footer>
-        <p>&copy; Anandh Raja K ,Junior Dev @ Taspro Technologies</p>
+        <p>&copy; 2024 My Portfolio</p>
       </footer>
     </>
   );
